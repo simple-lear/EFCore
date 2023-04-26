@@ -72,7 +72,7 @@ localhost:分配的端口号/swagger/index.html
 * ```C#
   protected override void OnModelCreating(ModelBuilder modelBuilder)
   {
-  	base.OnModelCreating(modelBuilder);
+  	  base.OnModelCreating(modelBuilder);
       modelBuilder.ApplyConfigurationsFromAssembly(this.GetType().Assembly);
   }
   ```
