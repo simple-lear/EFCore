@@ -94,7 +94,7 @@ localhost:分配的端口号/swagger/index.html
 
 ![](./Images/8.png)
 
-创建文件夹 services，新建两个文件 IPersonService 和 PersonVice
+创建文件夹 services，新建两个文件 IPersonService 和 PersonSerVice
 
 ![](./Images/9.png)
 
